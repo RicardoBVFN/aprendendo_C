@@ -2,6 +2,8 @@
     "files.associations": {
         "notas_e_moedas.C": "cpp",
         "par_impar.C": "cpp",
-        "fibonacci.C": "cpp"
+        "fibonacci.C": "cpp",
+        "operacao_linha_matriz.C": "cpp",
+        "matriz_padronizada.C": "cpp"
     }
 }
