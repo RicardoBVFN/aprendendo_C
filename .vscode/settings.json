@@ -5,6 +5,7 @@
         "fibonacci.C": "cpp",
         "operacao_linha_matriz.C": "cpp",
         "matriz_padronizada.C": "cpp",
-        "union.C": "cpp"
+        "union.C": "cpp",
+        "comparacao_funcoes.C": "cpp"
     }
 }
