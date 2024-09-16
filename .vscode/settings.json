@@ -6,6 +6,7 @@
         "operacao_linha_matriz.C": "cpp",
         "matriz_padronizada.C": "cpp",
         "union.C": "cpp",
-        "comparacao_funcoes.C": "cpp"
+        "comparacao_funcoes.C": "cpp",
+        "placar_corrida.C": "cpp"
     }
 }
