@@ -9,6 +9,7 @@
         "comparacao_funcoes.C": "cpp",
         "placar_corrida.C": "cpp",
         "cadastro_pacientes.C": "cpp",
-        "cadastro_biblioteca.C": "cpp"
+        "cadastro_biblioteca.C": "cpp",
+        "manipulacao_pares_ptr.C": "cpp"
     }
 }
