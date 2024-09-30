@@ -34,5 +34,7 @@ int main(){
         free(numeros);
 
     }
+
+    return 0;
     
 }

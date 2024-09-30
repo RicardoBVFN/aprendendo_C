@@ -10,6 +10,7 @@
         "placar_corrida.C": "cpp",
         "cadastro_pacientes.C": "cpp",
         "cadastro_biblioteca.C": "cpp",
-        "manipulacao_pares_ptr.C": "cpp"
+        "manipulacao_pares_ptr.C": "cpp",
+        "maior_produto_ptr.C": "cpp"
     }
 }
