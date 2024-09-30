@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 int maiorProduto(int listaNumeros[], int tamanhoLista){
 
