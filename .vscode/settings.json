@@ -12,6 +12,9 @@
         "cadastro_biblioteca.C": "cpp",
         "manipulacao_pares_ptr.C": "cpp",
         "maior_produto_ptr.C": "cpp",
-        "operacoes_dois_numeros_ptr.C": "cpp"
+        "operacoes_dois_numeros_ptr.C": "cpp",
+        "area_circulo.C": "cpp",
+        "tentativa_arvore_binaria.C": "cpp",
+        "teste_prova.C": "cpp"
     }
 }
